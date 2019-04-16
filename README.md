@@ -1,4 +1,4 @@
-# awesome-jetson-nano
+# Awesome Jetson Nano
 
 Highlight resources and tools for Nvidia Jetson Nano
 
