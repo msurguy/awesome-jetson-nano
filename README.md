@@ -11,6 +11,7 @@ Highlight resources and tools for Nvidia Jetson Nano
 
 ## Hardware resources:
 
+- Shopping list: https://www.amazon.com/shop/msurguy?listId=3IZP59PZJW6AX
 - Jetson Nano Power Supply considerations: https://devtalk.nvidia.com/default/topic/1048640/jetson-nano/power-supply-considerations-for-jetson-nano-developer-kit/
 - Jetson Nano specs: https://elinux.org/Jetson_Nano
 - Jetson Nano Pinout: https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/
