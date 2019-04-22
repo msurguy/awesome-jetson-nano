@@ -36,3 +36,4 @@ Highlight resources and tools for Nvidia Jetson Nano
 - https://github.com/mozilla/TTS
 - https://github.com/erogol/WaveRNN
 - https://github.com/ibab/tensorflow-wavenet
+- https://github.com/YuvalNirkin/face_swap
